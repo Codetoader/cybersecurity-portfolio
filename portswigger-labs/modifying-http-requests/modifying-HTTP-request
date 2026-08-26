@@ -17,4 +17,4 @@ Intercept request and modify it to alter outcome
 
 ## What I Learned
 
-I learned how to intercept, review, and manipulate HTTP traffic using Burp Proxy. I was able to alter the proce of an item in a shopping cart and proceed to order.
+I learned how to intercept, review, and manipulate HTTP traffic using Burp Proxy. I was able to alter the price of an item (from $1337 to 7 cents)in a shopping cart and proceed to order.
