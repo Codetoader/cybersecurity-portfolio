@@ -3,7 +3,7 @@ My cybersecurity learning journey and security lab writeups.
 
 ## About Me
 
-Aspiring web application security professional focused on web application security.
+Cyber security professional focused on web application security.
 
 Currently learning:
 
