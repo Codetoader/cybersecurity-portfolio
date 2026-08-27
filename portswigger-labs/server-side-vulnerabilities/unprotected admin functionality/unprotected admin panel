@@ -1,1 +1,20 @@
+## OBJECTIVE
 
+Deleting the user Carlos by exploiting an unprotected admin panel
+
+## Skills Used
+
+- Burp Suite
+
+## Process
+
+1. Locate the admin panel
+2. Identified users
+3. Delete Carlos
+
+## What I Learned
+
+I learnt that there was broken access control which allowed me locate the admin panel and carry out admin tasks.
+
+REMEDIATION
+Developers must add access control to the site.
