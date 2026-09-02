@@ -1,5 +1,5 @@
 # cybersecurity-portfolio
-My cybersecurity learning journey and security lab writeups.
+My cybersecurity journey and security lab writeups.
 
 ## About Me
 
